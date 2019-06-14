@@ -6,3 +6,5 @@
 	3、修改，add，commit
 	4、push到自己的远程仓库
 	5、New pull request
+Huppy训练营，老师辛苦了，学生很认真！
+年轻有为榜样
